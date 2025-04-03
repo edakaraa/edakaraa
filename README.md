@@ -1,4 +1,5 @@
 ## Hi there 👋
+![snake gif](https://github.com/edakaraa/edakaraa/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **edakaraa/edakaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
