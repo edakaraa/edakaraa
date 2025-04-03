@@ -19,7 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2  # Burayı v3'ten v2'ye değiştirdik
         with:
           name: snake
           path: dist/snake.svg
@@ -27,5 +27,5 @@ jobs:
       - name: Push to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output  # Animasyon bu branch'e yüklenecek
+          branch: output
           folder: dist
