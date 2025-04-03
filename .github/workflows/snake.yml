@@ -19,7 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2  # Burayı v3'ten v2'ye değiştirdik
+        uses: actions/upload-artifact@v3  # Burada v3'e geçiş yapıyoruz
         with:
           name: snake
           path: dist/snake.svg
