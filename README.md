@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/0weNDO7xfTye4oqkUr/giphy.gif" width="300" />
 </p>
 
+<dev align="center">
+
 # 💻 Tech Stack:
 
 <p align="center">
@@ -26,9 +28,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=edakaraa&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edakaraa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=edakaraa&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=edakaraa&icon=2&color=6)](https://visitcount.itsvg.in)
 
+</dev>
