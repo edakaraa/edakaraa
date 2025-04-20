@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+there!+I'm+Eda!;Welcome+to+my+GitHub+profile!&center=true&size=27">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Eda!;Computer+Engineering+Student.;Passionate+about+Embedded+Systems+and+Python.;Welcome+to+my+GitHub+profile!&center=true&size=27&pause=1000&color=3ABEFF">
 </p>
 
