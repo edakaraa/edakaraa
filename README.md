@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/0weNDO7xfTye4oqkUr/giphy.gif" width="300" />
 </p>
 
-<dev align="center">
+<div align="center">
 
 # 💻 Tech Stack:
 
@@ -31,4 +31,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=edakaraa&icon=2&color=6)](https://visitcount.itsvg.in)
 
-</dev>
+</div>
